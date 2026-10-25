@@ -28,7 +28,7 @@
 
 ## 提交需求
 
-在本仓库新建 [Issue](../../issues/new/choose)，提供：
+在本仓库新建 [Issue](https://github.com/shuoYun114/development-services/issues/new/choose)，提供：
 
 1. 期望结果、实际结果和最小复现步骤。
 2. 脱敏错误日志、Android / Gradle / Kotlin 版本。
